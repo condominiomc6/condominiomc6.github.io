@@ -1,0 +1,324 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"height	Attr"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_posts/2000-01-01-cartelera.md",
+			"settings":
+			{
+				"buffer_size": 1720,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2000-01-05-descargas.md",
+			"settings":
+			{
+				"buffer_size": 1935,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 369.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: com",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/damaso/Projects/jekyll_blog/blog_1",
+		"/home/damaso/Projects/jekyll_blog/blog_1/_posts",
+		"/home/damaso/Projects/jekyll_blog/blog_1/img",
+		"/home/damaso/Projects/jekyll_blog/blog_1/old_posts"
+	],
+	"file_history":
+	[
+		"/home/damaso/Public/httpd.conf",
+		"/home/damaso/Downloads/case.4-64-0-4743.espaol.language.xml",
+		"/home/damaso/Projects/jekyll_blog/blog_1/_posts/2000-01-05-descargas.md",
+		"/home/damaso/Projects/jekyll_blog/blog_1/_posts/2000-01-01-cartelera.md",
+		"/home/damaso/Projects/MercadoLibre/Kingston_SSD/SSD.html",
+		"/home/damaso/Documents/Projects/jekyll_blog/blog_1/_posts/2000-01-06-contactos.md",
+		"/home/damaso/Documents/Projects/jekyll_blog/blog_1/_posts/2000-01-01-cartelera.md",
+		"/home/damaso/Documents/Projects/jekyll_blog/blog_1/_posts/2000-01-03-finanzas.md",
+		"/home/damaso/Documents/Projects/MercadoLibre/web_slices/nokia_635.html",
+		"/home/damaso/Documents/Projects/MercadoLibre/web_slices/slice.html",
+		"/home/damaso/Documents/Projects/jekyll_blog/blog_1/_config.yml",
+		"/home/damaso/Documents/Projects/MercadoLibre/web_slices/layout.html",
+		"/home/damaso/Documents/Projects/MercadoLibre/web_slices/style.css",
+		"/home/damaso/Documents/Projects/MercadoLibre/slice.html",
+		"/home/damaso/Documents/Projects/jekyll_blog/blog_1/_posts/2000-01-07-pagos.md",
+		"/home/damaso/Documents/Projects/jekyll_blog/blog_1/_posts/2000-01-05-descargas.md",
+		"/home/damaso/Documents/Projects/jekyll_blog/blog_1/_posts/2000-01-02-bloqueos.md",
+		"/home/damaso/Documents/Projects/jekyll_blog/blog_1/_upload/2000-01-05-descargas.md",
+		"/home/damaso/Documents/Projects/jekyll_blog/blog_1/_includes/css/main.css",
+		"/home/damaso/Documents/Projects/jekyll_blog/blog_1/_includes/footer.md",
+		"/home/damaso/Documents/Projects/jekyll_blog/blog_1/_posts/2000-01-07-video.md",
+		"/home/damaso/Documents/Projects/jekyll_blog/blog_1/_posts/2000-01-01-inicio.md",
+		"/home/damaso/Documents/Projects/jekyll_blog/blog_1/_includes/css/base.css",
+		"/home/damaso/Documents/Projects/jekyll_blog/SinglePaged/_posts/2000-01-02-bloqueos.md",
+		"/home/damaso/Documents/Projects/jekyll_blog/SinglePaged/_posts/2000-01-01-inicio.md",
+		"/home/damaso/Documents/Projects/jekyll_blog/SinglePaged/_config.yml",
+		"/home/damaso/Documents/Projects/jekyll_blog/SinglePaged/_posts/2000-01-01-intro.md",
+		"/home/damaso/Google Drive/coggle_es/coggle-translations/en-US.l20n",
+		"/home/damaso/Google Drive/coggle_es/coggle-translations/es-VE.l20n",
+		"/home/damaso/WWW/sandbox01/wp-content/themes/bones/library/scss/breakpoints/_base.scss",
+		"/home/damaso/WWW/sandbox01/wp-config.php",
+		"/home/damaso/WWW/sandbox01/index.html",
+		"/opt/lampp/etc/extra/httpd-vhosts.conf",
+		"/home/damaso/error_log"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$black"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_posts/2000-01-01-cartelera.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1713,
+								1713
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "markdown",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1254.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2000-01-05-descargas.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1935,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "markdown",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CONDOMINIO.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
